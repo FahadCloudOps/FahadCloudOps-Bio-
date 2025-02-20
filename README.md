@@ -20,6 +20,14 @@
 ## 📊 GitHub Stats  
 ![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahadCloudOps&show_icons=true&theme=radical)  
 
+## 🏆 GitHub Achievements  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=FahadCloudOps&theme=onedark&no-frame=true&margin-w=10)
+
+## 🔥 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FahadCloudOps&theme=dark&hide_border=true)
+
+
+
 ## 🔥 Tech Stack  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadCloudOps&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 🔹 5️⃣ Connect with Me (Already Added)
