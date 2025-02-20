@@ -38,8 +38,10 @@
 ## 🏙️ My GitHub Skyline  
 ![GitHub Skyline](https://github.com/FahadCloudOps/FahadCloudOps/blob/main/skyline.png)
 
+  
 ## 🐍 Contribution Graph  
-![snake gif](https://github.com/FahadCloudOps/FahadCloudOps/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/FahadCloudOps/FahadCloudOps/output/github-contribution-grid-snake.svg)
+
 
 
 
