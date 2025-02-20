@@ -26,6 +26,22 @@
 ## 🔥 GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FahadCloudOps&theme=dark&hide_border=true)
 
+## 🔥 Profile Views  
+![Visitor Count](https://komarev.com/ghpvc/?username=FahadCloudOps&color=blue&style=flat-square)
+
+## 📊 Recent GitHub Activity  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+## Hi there, I'm Mohammad Fahad! 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=AWS+DevOps+Engineer;Cloud+Enthusiast;Automating+Infrastructure+and+CI%2FCD)](https://git.io/typing-svg)
+
+## 🏙️ My GitHub Skyline  
+![GitHub Skyline](https://github.com/FahadCloudOps/FahadCloudOps/blob/main/skyline.png)
+
+## 🐍 Contribution Graph  
+![snake gif](https://github.com/FahadCloudOps/FahadCloudOps/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 ## 🔥 Tech Stack  
