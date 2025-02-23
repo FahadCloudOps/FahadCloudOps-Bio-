@@ -29,6 +29,9 @@
 ## 🔥 Profile Views  
 ![Visitor Count](https://komarev.com/ghpvc/?username=FahadCloudOps&color=blue&style=flat-square)
 
+## [LinkedIn]https://www.linkedin.com/in/mohammad-fahad-213509298/
+## [Email] (mailto: fahadmk.proton@gmail.com)
+
 ## 📊 Recent GitHub Activity  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
