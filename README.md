@@ -62,3 +62,10 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 🔹 5️⃣ Connect with Me (Already Added)
 🌐 GitHub → [github.com/FahadCloudOps](https://github.com/FahadCloudOps)
 🔗 LinkedIn → [linkedin.com/in/mohammad-fahad-213509298](https://linkedin.com/in/mohammad-fahad-213509298/)
+
+## 🛠 Technologies & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+</p>
