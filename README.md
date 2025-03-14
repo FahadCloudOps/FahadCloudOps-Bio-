@@ -1,7 +1,9 @@
 # FahadCloudOps-Bio-
 
 
-👋 Intro – "Hi, I'm Mohammad Fahad, AWS DevOps Engineer..."
+👋 "Hi folks ,
+ 
+I'm Mohammad Fahad, AWS DevOps Engineer..."
 🔹 Cloud Enthusiast | DevOps Practitioner | Automation Engineer
 🛠 Skills & Tools – AWS, Terraform, Docker, Kubernetes, Jenkins, etc.
 🔥  Passionate about AWS, Terraform, Docker, Kubernetes, Ansible, Jenkins, GitHub Actions
