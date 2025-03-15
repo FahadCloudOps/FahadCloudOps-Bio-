@@ -49,19 +49,10 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 </p>
 
 ---
-
-
-
----
-
-
-
-
-## 🚀 Featured Projects  
+# 🚀 Featured Projects  
 ✅ **[Windows Server Deployment on AWS](https://github.com/FahadCloudOps/Windows-Server-Host)** – Secure & scalable Windows Server on AWS  
 ✅ **[CI/CD Pipeline with Jenkins & GitHub Actions](https://github.com/FahadCloudOps/CI-CD-Pipeline)** – Automating deployments using Jenkins & Docker  
 ✅ **[Terraform AWS Infrastructure](https://github.com/FahadCloudOps/Terraform-AWS)** – Automating AWS infra setup using Terraform  
-🔹 3️⃣ GitHub Stats (Make Profile Attractive)
 
 
 
@@ -99,8 +90,17 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadCloudOps&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-🔹5️⃣ Connect with Me (Already Added)
+5️⃣ Connect with Me
+
+## **📬 How to Reach Me?**  
+📧 **Email**: [fahadmk.proton@gmail.com]
+(mail to above ☝🏻 )  
+
+☎️ 7893189805
 
 🌐 GitHub → [github.com/FahadCloudOps](https://github.com/FahadCloudOps)
+
 🔗 LinkedIn → [linkedin.com/in/mohammad-fahad-213509298](https://linkedin.com/in/mohammad-fahad-213509298/)
+
+
 
