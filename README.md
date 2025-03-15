@@ -13,7 +13,7 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 ## ⚙️ Technologies & Tools  
 
 ### 🚀 Cloud & DevOps  
-<p align="left">
+p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" 
        alt="AWS" width="60" height="60" class="aws-icon"/>
 </p>
