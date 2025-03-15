@@ -90,11 +90,11 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadCloudOps&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-5️⃣ Connect with Me
 
-## **📬 How to Reach Me?**  
+5️⃣ **📬 How to Reach Me?**  
+
 📧 **Email**: [fahadmk.proton@gmail.com]
-(mail to above ☝🏻 )  
+(mail above ☝🏻 )  
 
 ☎️ 7893189805
 
@@ -102,5 +102,8 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 
 🔗 LinkedIn → [linkedin.com/in/mohammad-fahad-213509298](https://linkedin.com/in/mohammad-fahad-213509298/)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&width=435&lines=Cloud+DevOps+Engineer;Python+%7C+AWS+%7C+Automation)](https://git.io/typing-svg)
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/mohdfahad)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MohdFahad)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-blue?logo=hashnode)](https://mohdfahad.hashnode.dev)
