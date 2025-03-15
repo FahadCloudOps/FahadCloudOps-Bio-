@@ -25,12 +25,18 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50"/>
 </p>  
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
+</p>  
+
+
 
 ### 📊 Monitoring & Logging  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
+</p>  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloud watch/cloud watch-original.svg" alt="cloud watch" width="50" height="50"/>
 </p>  
+
 
 ### 🔥 Databases  
 <p align="left">
