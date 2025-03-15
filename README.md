@@ -50,13 +50,7 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 
 ---
 
-## **🔥 Motion Effects & Animated Icons**
-### **GIF-based Animation for Extra Attraction**
-<p align="left">
-  <img src="https://i.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50"/>
-  <img src="https://i.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50"/>
-  <img src="https://i.giphy.com/media/XwPhZjmwB3ANqlQ3Fi/giphy.gif" width="50"/>
-</p>
+
 
 ---
 
