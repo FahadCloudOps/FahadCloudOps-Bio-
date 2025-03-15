@@ -9,8 +9,6 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 🔥  Passionate about AWS, Terraform, Docker, Kubernetes, Ansible, Jenkins, GitHub Actions
 🔹 Automating CI/CD pipelines and managing scalable cloud infrastructure
 🔹 Exploring Golang, Prometheus, Grafana , AWS Lambda to enhance DevOps expertise)
-
-## 🔧 Tech Stack & Tools  
   
 ## 🔧 Tech Stack & Tools  
 
@@ -44,9 +42,7 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 </p>
 
 
-
-
----
+----
 # 🚀 Featured Projects  
 ✅ **[Windows Server Deployment on AWS](https://github.com/FahadCloudOps/Windows-Server-Host)** – Secure & scalable Windows Server on AWS  
 ✅ **[CI/CD Pipeline with Jenkins & GitHub Actions](https://github.com/FahadCloudOps/CI-CD-Pipeline)** – Automating deployments using Jenkins & Docker  
