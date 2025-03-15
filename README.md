@@ -102,8 +102,12 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 
 🔗 LinkedIn → [linkedin.com/in/mohammad-fahad-213509298](https://linkedin.com/in/mohammad-fahad-213509298/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&width=435&lines=Cloud+DevOps+Engineer;Python+%7C+AWS+%7C+Automation)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/mohdfahad)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MohdFahad)
-[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-blue?logo=hashnode)](https://mohdfahad.hashnode.dev)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-fahad-213509298">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/zenith.fady">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
