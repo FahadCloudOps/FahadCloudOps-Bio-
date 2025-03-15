@@ -1,7 +1,7 @@
 # FahadCloudOps-Bio-
 
 
-👋 "Hi folks ,
+👋 "Hi  ,
  
 I'm Mohammad Fahad, AWS DevOps Engineer..."
 🔹 Cloud Enthusiast | DevOps Practitioner | Automation Engineer
@@ -10,11 +10,42 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 🔹 Automating CI/CD pipelines and managing scalable cloud infrastructure
 🔹 Exploring Golang, Prometheus, Grafana , AWS Lambda to enhance DevOps expertise)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠 Technologies & Tools  
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🚀 Programming Languages  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="50" height="50"/>
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### ⚙️ DevOps & Cloud Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
+</p>
+
+### 🔍 Monitoring Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Grafana_logo.svg" alt="Grafana" width="50" height="50"/>
+</p>
+
+### 🛢️ Databases  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+</p>
+
+### 💻 CI/CD & Automation  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Argo-logo.png" alt="ArgoCD" width="50" height="50"/>
+</p>
 
 
 
@@ -44,8 +75,7 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 ## 📊 Recent GitHub Activity  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-## Hi there, I'm Mohammad Fahad! 👋  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=AWS+DevOps+Engineer;Cloud+Enthusiast;Automating+Infrastructure+and+CI%2FCD)](https://git.io/typing-svg)
+
 
 ## 🏙️ My GitHub Skyline  
 ![GitHub Skyline](https://github.com/FahadCloudOps/FahadCloudOps/blob/main/skyline.png)
@@ -63,9 +93,3 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 🌐 GitHub → [github.com/FahadCloudOps](https://github.com/FahadCloudOps)
 🔗 LinkedIn → [linkedin.com/in/mohammad-fahad-213509298](https://linkedin.com/in/mohammad-fahad-213509298/)
 
-## 🛠 Technologies & Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-</p>
