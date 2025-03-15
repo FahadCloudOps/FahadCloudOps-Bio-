@@ -13,22 +13,10 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 ## ⚙️ Technologies & Tools  
 
 ### 🚀 Cloud & DevOps  
+
 p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" 
-       alt="AWS" width="60" height="60" class="aws-icon"/>
-</p>
-
-<style>
-  .aws-icon {
-    animation: rotate 3s infinite linear;
-  }
-
-  @keyframes rotate {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-</style>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img
 
    src="https://argocd-image-link" alt="ArgoCD" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
