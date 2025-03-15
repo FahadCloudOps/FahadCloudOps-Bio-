@@ -86,7 +86,8 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 5️⃣ **📬 How to Reach Me?**  
 
 📧 **Email**: [fahadmk.proton@gmail.com]
-(mail above ☝🏻 )  
+
+(mail above ☝ )  
 
 ☎️ 7893189805
 
