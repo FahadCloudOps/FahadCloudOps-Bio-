@@ -10,43 +10,44 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 🔹 Automating CI/CD pipelines and managing scalable cloud infrastructure
 🔹 Exploring Golang, Prometheus, Grafana , AWS Lambda to enhance DevOps expertise)
 
-## 🚀 Technologies & Tools  
+## ⚙️ Technologies & Tools  
 
-### **🖥️ Programming Languages**  
+### 🚀 Cloud & DevOps  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="50" height="50"/>
-</p>
-
----
-
-### **🛠 DevOps & Cloud Tools**  
-<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://argocd-image-link" alt="ArgoCD" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Argo-logo.png" alt="ArgoCD" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
 </p>
 
----
-
-### **📊 Monitoring & Logging Tools**  
+### 🔧 CI/CD & Automation  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Grafana_logo.svg" alt="Grafana" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-Logging-orange?style=for-the-badge&logo=elasticstack&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+  <img src="https://circleci.com/assets/logos/circleci-logo.svg" alt="CircleCI" width="50" height="50"/>
 </p>
 
----
+### 📊 Monitoring & Logging  
+<p align="left">
+  <img src="https://grafana.com/api/assets/grafana_logo" alt="Grafana" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="50" height="50"/>
+</p>
 
-### **🗄️ Databases & Storage**  
+### 🗄️ Databases  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/S3-Cloud%20Storage-yellow?style=for-the-badge&logo=amazons3&logoColor=white" />
 </p>
+
+### 🔥 Programming Languages  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang" width="50" height="50"/>
+</p>
+
 
 ---
 # 🚀 Featured Projects  
@@ -103,6 +104,7 @@ I'm Mohammad Fahad, AWS DevOps Engineer..."
 🔗 LinkedIn → [linkedin.com/in/mohammad-fahad-213509298](https://linkedin.com/in/mohammad-fahad-213509298/)
 
 
+  
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-fahad-213509298">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
